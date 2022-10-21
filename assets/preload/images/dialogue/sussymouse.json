@@ -1,0 +1,142 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		20,
+		-60
+	],
+	"no_antialiasing": false,
+	"scale": 1.45,
+	"animations": [
+		{
+			"loop_name": "t1.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "t1.png",
+			"anim": "t1",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "t2.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "t2.png",
+			"anim": "t2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "t3.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "t3.png",
+			"anim": "t3",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "t4.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "t4.png",
+			"anim": "t4",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "t5.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "t5.png",
+			"anim": "t5",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "t6.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "t6.png",
+			"anim": "t6",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "t7.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "t7.png",
+			"anim": "t7",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "t8.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "t8.png",
+			"anim": "t8",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "t9.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "t9.png",
+			"anim": "t9",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "t10.png",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "t10.png",
+			"anim": "t10",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "sussymouse"
+}

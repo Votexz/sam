@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "mainhey",
+	"idle_anim": "main0",
+	"position": [
+		500,
+		10
+	],
+	"scale": 1,
+	"image": "mainMenu",
+	"flipX": false
+}

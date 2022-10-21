@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				160,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "OGFlip Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				221,
+				14
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "OGFlip M LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				32,
+				-15
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "OGFlip M RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				167,
+				16
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "OGFlip M UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				142,
+				-59
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "OGFlip M DOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "flippy/FLIPPY_alt",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "flippy",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		255,
+		167
+	],
+	"camera_position": [
+		-140,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

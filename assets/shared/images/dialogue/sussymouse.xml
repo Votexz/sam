@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sussymouse.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="t1.png" x="5" y="5" width="1283" height="721"/>
+	<SubTexture name="t10.png" x="1288" y="5" width="1283" height="721"/>
+	<SubTexture name="t2.png" x="2571" y="5" width="1283" height="721"/>
+	<SubTexture name="t3.png" x="5" y="726" width="1283" height="721"/>
+	<SubTexture name="t4.png" x="1288" y="726" width="1283" height="721"/>
+	<SubTexture name="t5.png" x="2571" y="726" width="1283" height="721"/>
+	<SubTexture name="t6.png" x="5" y="1447" width="1283" height="721"/>
+	<SubTexture name="t7.png" x="1288" y="1447" width="1283" height="721"/>
+	<SubTexture name="t8.png" x="2571" y="1447" width="1283" height="721"/>
+	<SubTexture name="t9.png" x="5" y="2168" width="1283" height="721"/>
+</TextureAtlas>

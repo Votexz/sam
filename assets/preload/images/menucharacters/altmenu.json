@@ -1,0 +1,10 @@
+{
+	"idle_anim": "altidle",
+	"confirm_anim": "althey0",
+	"position": [
+		489,
+		14
+	],
+	"scale": 1,
+	"image": "altMenu"
+}

@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "BonusHEY",
+	"idle_anim": "BonusIDLE",
+	"position": [
+		479,
+		10
+	],
+	"scale": 1,
+	"image": "bonusmenu"
+}

@@ -1,0 +1,59 @@
+{
+	"storyName": "main",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "main",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"mainmenu",
+		""
+	],
+	"songs": [
+		[
+			"triggered",
+			"flippy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"slaughter",
+			"flippy-bloody",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"overkill",
+			"flippy-bloody",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"fallout",
+			"flippy-bloody",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

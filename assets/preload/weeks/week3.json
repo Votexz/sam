@@ -1,0 +1,59 @@
+{
+	"storyName": "bonus",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "Bonus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bonusmenu",
+		""
+	],
+	"songs": [
+		[
+			"kapow",
+			"flippy-kapow",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"cleave",
+			"minus",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"disturbed",
+			"minus",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"playdate",
+			"flippy",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

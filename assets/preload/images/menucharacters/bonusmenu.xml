@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bonusmenu.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BonusHEY0000.png" x="5" y="5" width="1280" height="404"/>
+	<SubTexture name="BonusHEY0001.png" x="5" y="409" width="1280" height="404"/>
+	<SubTexture name="BonusHEY0002.png" x="5" y="813" width="1280" height="404"/>
+	<SubTexture name="BonusHEY0003.png" x="5" y="1217" width="1280" height="404"/>
+	<SubTexture name="BonusIDLE.png" x="5" y="1621" width="1280" height="404"/>
+</TextureAtlas>

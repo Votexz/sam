@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="altMenu.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="althey0000.png" x="5" y="5" width="1280" height="404"/>
+	<SubTexture name="althey0001.png" x="5" y="5" width="1280" height="404"/>
+	<SubTexture name="althey0002.png" x="5" y="5" width="1280" height="404"/>
+	<SubTexture name="althey0003.png" x="5" y="409" width="1280" height="404"/>
+	<SubTexture name="althey0004.png" x="5" y="409" width="1280" height="404"/>
+	<SubTexture name="althey0005.png" x="5" y="409" width="1280" height="404"/>
+	<SubTexture name="althey0006.png" x="5" y="813" width="1280" height="404"/>
+	<SubTexture name="althey0007.png" x="5" y="813" width="1280" height="404"/>
+	<SubTexture name="althey0008.png" x="5" y="1217" width="1280" height="404"/>
+	<SubTexture name="althey0009.png" x="5" y="1217" width="1280" height="404"/>
+	<SubTexture name="altidle.png" x="5" y="1621" width="1280" height="404"/>
+</TextureAtlas>
